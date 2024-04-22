@@ -15,7 +15,7 @@ function App() {
       <div className="container-fluid">
         <div className="container">
           <div className="row">
-          <Product />
+          {/* <Product /> */}
             {
               products.map((v,i) => {
                 return (
